@@ -1,2 +1,2 @@
-# teste-de-consumo-de-api-com-h2
-API Spring simples para teste de consumo - utilizando H2 Database
+Api bem simples que salva usuario, busca todos os usuarios salvos e retorna algum especifico por Id 
+Criei com intuito de testar H2 Database
